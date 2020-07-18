@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Will Thomason](https://pbs.twimg.com/profile_images/1055006473863024645/GrNmZQCT.jpg)
